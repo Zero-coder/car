@@ -11,6 +11,13 @@
 [保姆级环境配置：](https://blog.csdn.net/weixin_44791964/article/details/106037141)
 #### [简洁版环境配置：]
 
+
+- last.pt 权重文件太大，不能直接上传到码云，通过百度云方式分享，下载后，放入weights文件夹。
+- 链接：
+- 链接：https://pan.baidu.com/s/1OmMVqckyMDosopfwv52zTQ 
+- 提取码：je0x
+
+
 - pytorch安装：
 - 官网推荐的安装代码如下，我使用的是Cuda10的版本：
 
