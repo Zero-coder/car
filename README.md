@@ -4,7 +4,11 @@
 #### 介绍
 基于pytorch深度学习框架，实用开源模型yolov4实现模板检测与yolov5实现车牌检测与LPRNet实现车牌检测
 
-基于win10系统，实用anaconda配置python环境，在anaconda里面下载vscode对项目进行编辑
+基于win10系统，实用anaconda配置python环境，在anaconda里面下载vscode对项目进行编辑，
+
+
+
+
 #### 软件架构
 ![软件架构](https://images.gitee.com/uploads/images/2021/0726/124949_31173f9c_5230895.png "屏幕截图.png")
 #### 安装教程
@@ -17,6 +21,7 @@
 - 链接：https://pan.baidu.com/s/1OmMVqckyMDosopfwv52zTQ 
 - 提取码：je0x
 
+编辑器我选择的是vscode，用anaconda创建虚拟python环境可以很好的分离项目，独立起来，方便。
 
 - pytorch安装：
 - 官网推荐的安装代码如下，我使用的是Cuda10的版本：
@@ -33,7 +38,18 @@
 - pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
+- 给出网盘链接：
+- 链接：https://pan.baidu.com/s/1YwcoaSRmNaeWZfHWkZ8lJg 
+- 提取码：9i28
+- 这样下载的速度比较慢，可以通过下载whl文件在本地进行安装。
 
+下载完成后找到安装路径：
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/163505_a23ec979_5230895.png "屏幕截图.png")
+在cmd定位过来后利用文件全名进行安装即可
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/163530_2a02cebb_5230895.png "屏幕截图.png")
+
+安装有问题可以跳转到保姆级教程：[保姆级环境配置：](https://blog.csdn.net/weixin_44791964/article/details/106037141)
+ 
 
 
 #### 使用说明
