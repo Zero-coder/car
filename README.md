@@ -8,16 +8,16 @@
 ![软件架构](https://images.gitee.com/uploads/images/2021/0726/124949_31173f9c_5230895.png "屏幕截图.png")
 #### 安装教程
 [保姆级环境配置：](https://blog.csdn.net/weixin_44791964/article/details/106037141)
-[简洁版环境配置：]
+#### [简洁版环境配置：]
 1.  pytorch安装：
 官网推荐的安装代码如下，我使用的是Cuda10的版本：
-# CUDA 10.0
+ CUDA 10.0
 pip install torch===1.2.0 torchvision===0.4.0 -f https://download.pytorch.org/whl/torch_stable.html
 
-# CUDA 9.2
+ CUDA 9.2
 pip install torch==1.2.0+cu92 torchvision==0.4.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html
 
-# CPU only
+ CPU only
 pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
 
@@ -26,7 +26,13 @@ pip install torch==1.2.0+cpu torchvision==0.4.0+cpu -f https://download.pytorch.
 1.  运行detect.py：实现对 /inference/images 路径下的图片和视频进行目标检测，卡车计数，和车牌检测与识别
 2.  在/inference/output 路径下可看到输出情况
 ![实操情况](https://images.gitee.com/uploads/images/2021/0726/125452_912b655b_5230895.png "屏幕截图.png")
-
+#### 结果展示
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/125806_282bc84b_5230895.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/125821_d3b76e7b_5230895.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/125852_8f9547b9_5230895.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/125900_c0c3d530_5230895.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/125922_5f8e31d1_5230895.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0726/125934_4f9e2aa9_5230895.png "屏幕截图.png")
 #### 欢迎交流
 加了我QQ的就请不要加微信了，避免联系人冗余。
 Wechat_id:wechatmaster007
