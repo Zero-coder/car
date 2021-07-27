@@ -69,11 +69,9 @@
 Wechat_id:wechatmaster007
 在读中科院攻读nlp方向小硕一枚。
 
-#### 特技
+#### 小鸡汤：
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+很多坑要自己去踩才能成长的，动不动就把问题抛给我，我除了又成长了一遍，你们还得到了什么。
+你们碰到99%的问题，通过搜索引擎都是能解决的。
+要善于自己动手，发现问题不是啥本事，发现问题并解决问题才是本事。
+我的代码已经写得很清楚了，在框架方向基本无误的情况下，是可以通过debug调通代码的。
