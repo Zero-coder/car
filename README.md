@@ -20,8 +20,8 @@
 - 链接：
 - 链接：https://pan.baidu.com/s/1OmMVqckyMDosopfwv52zTQ 
 - 提取码：je0x
-有码友发来这样的消息：
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0805/114018_8dfbbbd1_5230895.png "屏幕截图.png")
+- 有码友发来这样的消息：
+- ![输入图片说明](https://images.gitee.com/uploads/images/2021/0805/114018_8dfbbbd1_5230895.png "屏幕截图.png")
 所以上传到百度云：
 链接：https://pan.baidu.com/s/1SxxXKyw616cMaZ4HLCgMUw 
 提取码：t6vj
