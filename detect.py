@@ -1,4 +1,6 @@
 import argparse
+
+import PIL
 import cv2 
 import numpy as np
 from PIL import Image
@@ -123,6 +125,9 @@ def detect(save_img=False):
 
             # Stream results
             if view_img:
+                if isinstance(im0, PIL.Image.Image):
+                    # im0 = numpy.array(im0)
+                    im0 = np.asarray(im0)
                 cv2.imshow(p, im0)
                 if cv2.waitKey(1) == ord('q'):  # q to quit
                     raise StopIteration

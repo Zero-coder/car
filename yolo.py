@@ -29,7 +29,7 @@ class YOLO(object):
         "model_image_size"  : (416, 416, 3),
         "confidence"        : 0.5,
         "iou"               : 0.3,
-        "cuda"              : True,
+        "cuda"              : torch.cuda.is_available(),
         #---------------------------------------------------------------------#
         #   该变量用于控制是否使用letterbox_image对输入图像进行不失真的resize，
         #   在多次测试后，发现关闭letterbox_image直接resize的效果更好
@@ -90,7 +90,7 @@ class YOLO(object):
         state_dict = torch.load(self.model_path, map_location=device)
         self.net.load_state_dict(state_dict)
         print('Finished!')
-        
+        print(self.cuda)
         if self.cuda:
             self.net = nn.DataParallel(self.net)
             self.net = self.net.cuda()
